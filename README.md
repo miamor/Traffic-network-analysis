@@ -29,3 +29,17 @@ Navigate to this [drive link](https://drive.google.com/drive/folders/1UEFAo7bS0z
 | `vv5.lof.__1__.testonly.ipynb` | Run `LOF` as `outlier detection` on 7 sets of features | Encoded files <br>*Format:* `data/vv3.{set}.{type}.__1__.npy` <br>*Eg:* `data/vv3.tr.X.__1__.npy` | Model, features used, X used, ... <br>*Format:*<br>`result/vv5.__1__.{model_name}.{expname}.__{ra}__.{outtype}.{ext}` <br>*Eg:*<br>`result/vv5.__1__.lof.exp05_mi1.__78.40__.model.pkl`,<br>`result/vv5.__1__.lof.exp05_mi1.__78.40__.data.t.X.npy`,<br>`...` |  |
 | `vv6.after_predict.iforest.ipynb` | Evaluate `iForest` model and analyse scores & threshold... | Output of `vv5.iforest.__1__.ipynb` |  | `expname = 'exp04_play'`<br>`ra = '81.91'`<br>`model_name = 'iforest'` |
 | `vv6.after_predict.lof.ipynb` | Evaluate `LOF` model and analyse scores & threshold... | Output of `vv5.lof.__1__.ipynb` or `vv5.lof.__1__.testonly.ipynb` |  | `expname = 'exp05_mi1'`<br>`ra = '78.40'`<br>`model_name = 'lof'` |
+
+
+## Citation
+`vv2-1.ft_sel_2.ipynb` is heavily referenced from [this repo](https://github.com/solegalli/feature-selection-for-machine-learning), which is the implementation of  
+```
+@inproceedings{miller2009predicting,
+  title={Predicting customer behaviour: The University of Melbourne’s KDD Cup report},
+  author={Miller, Hugh and Clarke, Sandy and Lane, Stephen and Lonie, Andrew and Lazaridis, David and Petrovski, Slave and Jones, Owen},
+  booktitle={KDD-Cup 2009 Competition},
+  pages={45--55},
+  year={2009},
+  organization={PMLR}
+}
+```
