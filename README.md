@@ -2,7 +2,7 @@
 
 <https://github.com/miamor/Traffic-network-analysis>  
 
-Navigate to this [drive link](https://drive.google.com/drive/folders/1UEFAo7bS0zTSOc5F28CId7jWGASZNDPM?usp=sharing) to download all data, models and result.   
+Navigate to this [drive link](https://drive.google.com/drive/folders/1HZu0VzbrEZIaZX8ZAyUpsbnkt_p4wjVN?usp=share_link) to download all data, models and result.   
 
 
 ## Folder description
