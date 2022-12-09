@@ -2,7 +2,7 @@
 
 <https://github.com/miamor/Traffic-network-analysis>  
 
-Navigate to this [drive link](https://drive.google.com/drive/folders/1UEFAo7bS0zTSOc5F28CId7jWGASZNDPM?usp=sharing) to download all data, models and result.   
+Navigate to this [drive link](https://drive.google.com/drive/folders/1HZu0VzbrEZIaZX8ZAyUpsbnkt_p4wjVN?usp=share_link) to download all data, models and result.   
 
 
 ## Result
@@ -57,14 +57,4 @@ Navigate to this [drive link](https://drive.google.com/drive/folders/1UEFAo7bS0z
 
 
 ## Citation
-`vv2-1.ft_sel_2.ipynb` is heavily referenced from [this repo](https://github.com/solegalli/feature-selection-for-machine-learning), which is the implementation of  
-```
-@inproceedings{miller2009predicting,
-  title={Predicting customer behaviour: The University of Melbourne’s KDD Cup report},
-  author={Miller, Hugh and Clarke, Sandy and Lane, Stephen and Lonie, Andrew and Lazaridis, David and Petrovski, Slave and Jones, Owen},
-  booktitle={KDD-Cup 2009 Competition},
-  pages={45--55},
-  year={2009},
-  organization={PMLR}
-}
-```
+`vv2-1.ft_sel_2.ipynb` is heavily referenced from [this repo](https://github.com/solegalli/feature-selection-for-machine-learning)
